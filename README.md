@@ -1,7 +1,6 @@
-# weather_app
+# Weather App
 
-<h1>Weather App</h1>
-![weather_app](/repo/asserts/weather_app.png)
+![weather_app](repo/assets/weather_app.png)
 
 Weather App - это приложение для просмотра погоды на неделю по геолокации и названию города.
 
